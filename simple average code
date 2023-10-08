@@ -1,0 +1,10 @@
+class Maths
+{
+    /** 
+     * Return the (integer) average of the parameters 
+     * named a and b.
+     */
+ public static double average(int a, int b) {
+    return (a + b) / 2;
+}
+}
